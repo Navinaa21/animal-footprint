@@ -1,1 +1,0 @@
-D:\animal_footprint_app\ml\animal-footprint\data\OpenAnimalTracks\cropped_imgs\train
